@@ -1,0 +1,4 @@
+scorelist = [50,70,32,98]
+for i in scorelist:
+    total = total + i
+print(total)
